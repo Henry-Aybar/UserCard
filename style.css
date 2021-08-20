@@ -1,0 +1,69 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+#container {
+    border: 3px solid lightgray;
+    height: 300px;
+    width: 550px;
+    margin: 20px;
+}
+
+#header {
+    background-color: #17a2b8;
+
+}
+
+#circle {
+    border: 3px solid #cccccc;
+    border-width: 3px;
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: 35px;
+    left: 25px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#location {
+    display: flex;
+    padding: 5px;
+}
+
+h4 {
+    display: inline;
+    margin-left: 10px;
+}
+
+#map {
+    height: 15px;
+    margin-left: 20px;
+}
+
+p {
+    width: 300px;
+    margin-left: 20px;
+}
+
+#gear {
+    margin: 2px 5px;
+    height: 15px;
+    width: 15px;
+}
+
+h5 {
+    display: flex;
+    margin-top: 5px;
+    text-decoration-line: underline;
+    color: #307be4 ;
+    margin-left: 15px;
+}
+
